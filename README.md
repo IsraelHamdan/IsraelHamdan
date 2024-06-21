@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img align="left" height="350" src="https://github.com/IsraelHamdan.png"  />
+<img align="left" style ="border-radious:200px" height="350" src="https://github.com/IsraelHamdan.png"  />
 
 ###
 
