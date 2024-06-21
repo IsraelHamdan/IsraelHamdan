@@ -6,15 +6,7 @@
 
 <p align="left">Eu me chamo Israel Hamdan, atualmente estou cursando desenvolvimento full-stack na estácio. <br>Atualmente me encontro buscando uma vaga de front-end</p>
 
-###
 
-<br clear="both">
-
-<img align="left" style ="border-radious:200px" height="350" src="https://github.com/IsraelHamdan.png"  />
-
-###
-
-<br clear="both">
 
 <div align="center" higth="450">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
