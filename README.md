@@ -37,10 +37,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelHamdan&radius=16&theme=synthwave-84&area=true&order=5&bg_color=191825&color=E384FF&title_color=865DFF&line=52057B&area_color=892CDC&point=865DFF&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelHamdan&radius=16&theme=synthwave-84&area=true&order=5&bg_color=191825&color=E384FF&title_color=865DFF&line=52057B&area_color=892CDC&point=865DFF&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
