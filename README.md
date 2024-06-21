@@ -1,4 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=40&pause=1000&color=892CDC&background=19182500&center=true&vCenter=true&random=false&width=635&lines=Ol%C3%A1%2C+eu+sou+Israel+" alt="Typing SVG" /></a>
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -21,6 +23,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsraelHamdan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelHamdan&radius=16&theme=synthwave-84&area=true&order=5&bg_color=191825&color=E384FF&title_color=865DFF&line=52057B&area_color=892CDC&point=865DFF&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 <br clear="both">
 
