@@ -1,10 +1,6 @@
 <br clear="both">
 
-###
-
-<br clear="both">
-
-<img align="left" height="350" src="https://github.com/IsraelHamdan.png"  />
+<h1 align="left">Wellcome to my world</h1>
 
 ###
 
@@ -14,9 +10,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelHamdan&radius=16&theme=synthwave-84&area=true&order=5&bg_color=191825&color=E384FF&title_color=865DFF&line=52057B&area_color=892CDC&point=865DFF&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
+<img align="left" height="350" src="https://github.com/IsraelHamdan.png"  />
 
 ###
 
@@ -42,6 +36,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelHamdan&radius=16&theme=synthwave-84&area=true&order=5&bg_color=191825&color=E384FF&title_color=865DFF&line=52057B&area_color=892CDC&point=865DFF&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
