@@ -1,13 +1,5 @@
 <br clear="both">
 
-<h1 align="left">Wellcome to my world</h1>
-
-###
-
-<p align="left">Eu me chamo Israel Hamdan, atualmente estou cursando desenvolvimento full-stack na estácio. <br>Atualmente me encontro buscando uma vaga de front-end</p>
-
-
-
 <div align="center" higth="450">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
