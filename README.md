@@ -27,23 +27,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelHamdan&radius=16&theme=synthwave-84&area=true&order=5&bg_color=191825&color=E384FF&title_color=865DFF&line=52057B&area_color=892CDC&point=865DFF&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/israel-hamdan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/m3j9dqyv09igwp9l5tapgyi5m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m3j9dqyv09igwp9l5tapgyi5m&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
