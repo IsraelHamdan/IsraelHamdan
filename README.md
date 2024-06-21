@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<img align="left" height="400" src="https://github.com/IsraelHamdan.png"  />
+<img align="left" height="350" src="https://github.com/IsraelHamdan.png"  />
 
 ###
 
