@@ -1,7 +1,5 @@
 <br clear="both">
 
-<h1 align="left">Wellcome to my world</h1>
-
 ###
 
 <br clear="both">
