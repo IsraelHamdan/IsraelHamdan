@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
-<br clear="both">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=40&pause=1000&color=892CDC&background=19182500&center=true&vCenter=true&random=false&width=635&lines=Ol%C3%A1%2C+eu+sou+Israel+" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
