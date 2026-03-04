@@ -1,10 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=40&pause=1000&color=892CDC&background=19182500&center=true&vCenter=true&random=false&width=635&lines=Ol%C3%A1%2C+eu+sou+Israel+" alt="Typing SVG" /></a>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,nestjs,nextjs,react,docker,tailwind,sass,java,spring,prisma,postgres,mongodb" />
   </a>
 </p>
+<div aling="center">
+  
+➡️ [Veja meu currículo completo](./Israel-Hamdan__DesenvolvedorFullstack.md)
+</div>
 
 ###
 
